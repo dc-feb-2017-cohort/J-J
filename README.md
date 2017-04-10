@@ -10,4 +10,8 @@ go
 three times
 Fastest committer in the west!
 james
+<<<<<<< HEAD
 julie
+=======
+sandwich
+>>>>>>> 2ce04c5b39f9e4e3ce7ebe6ff214965656ad0f04
